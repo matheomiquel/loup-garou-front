@@ -37,7 +37,7 @@ export default function App() {
       return user;
     }
     else {
-      alert("faut mettre un nom CONNARD !!!")
+      alert("faut mettre un nom !!!")
     }
   }
 
